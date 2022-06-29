@@ -1,1 +1,1 @@
-script that prints hello user, where user is the current Linux user.
+script that prints a number with two decimal places, followed by a new line.
